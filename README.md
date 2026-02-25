@@ -4,7 +4,7 @@ Witam na moim profilu GitHub. Jest to przestrzeń, w której prezentuję swój d
 
 📌 **Kluczowe projekty**
 
-Uprzejmie zachęcam do zapoznania się z moimi przypiętymi repozytoriami, które stanowią reprezentatywny przekrój moich aktualnych kompetencji technicznych. Projekty:
+Uprzejmie zachęcam do zapoznania się z moimi przypiętymi repozytoriami.
 - **BookTracker**
 - **FlashMinds**
 - **Web-Vulnerability-Scanner**
