@@ -20,7 +20,7 @@ Języki skryptowe i backend: Python, PHP
 
 Frontend: React.js, HTML, CSS
 
-Bazy danych: PostgreSQL, SQLite
+Bazy danych: PostgreSQL, SQLite, MariaDB
 
 ---
 Dziękuję za poświęcony czas. Zapraszam do przeglądu kodu.
