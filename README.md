@@ -2,7 +2,6 @@
 
 Witam na moim profilu GitHub. Jest to przestrzeń, w której prezentuję swój dorobek programistyczny, podejście do architektury oprogramowania oraz dbałość o jakość kodu.
 
----
 📌 **Kluczowe projekty**
 
 Uprzejmie zachęcam do zapoznania się z moimi przypiętymi repozytoriami, które stanowią reprezentatywny przekrój moich aktualnych kompetencji technicznych. Projekty:
